@@ -2,7 +2,7 @@
 
 MLP is a multi-layer perceptron library. It is designed in C++, and will facilitate the creation and optimization of multi-layer neural networks ( perceptrons).
 
-# Example of use
+Example of use:
 
 ```
   int layers2[] = {1,5,1};
