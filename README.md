@@ -1,7 +1,5 @@
-# mlp
-Neural Network Library (multi-layer perceptron)
+# Multi-Layer Perceptron Library
 
-This library is designed to facilitate the creation and optimization of multi-layer neural networks.
+This C++ library is designed to facilitate the creation and optimization of multi-layer neural networks (a perceptron).
 
-It is developped in C++ and distributed under the MIT License.
 
